@@ -18,7 +18,7 @@ public class F5CounterMain {
     public static final String VERSION = "1.0";
 
     private boolean wasPressed = false;
-    public static int counter = -1;
+    public static int counter = 0;
 
     @EventHandler
     public void init(FMLInitializationEvent event) {
