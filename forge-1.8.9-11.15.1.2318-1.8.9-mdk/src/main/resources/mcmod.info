@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "f5counter",
+    "name": "F5 Counter",
+    "description": "My friends said I hit F5 too many times while playing xD, so I created this little mod to count them. Note that (yet) it doesn't track how many times I've pressed it after closing the game.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Smusso"],
+    "credits": "",
+    "logoFile": "assets/f5counter/screenshots/logo/modLogo.png",
+    "screenshots": [
+      "assets/f5counter/screenshots/others/InventoryScreenshot.png",
+      "assets/f5counter/screenshots/others/InventoryScreenshot2.png",
+      "assets/f5counter/screenshots/others/InventoryScreenshot3.png"
+    ],
+    "dependencies": []
+  }
+]
